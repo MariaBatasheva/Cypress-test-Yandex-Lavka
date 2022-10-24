@@ -13,8 +13,8 @@ $ npm install cypress
 * Windows 7 and above (64-bit only)
 * Node.js 12 or 14 and above
 ### Running a script
-*Run the ‘npx cypress open’ command under this folder directory
-*After a moment, the Cypress Test Runner will launch
-*Click on the Runs tab of your project within the Test Runner
-*Then Chrome browser will be launched to run this script
+* Run the ‘npx cypress open’ command under this folder directory
+* After a moment, the Cypress Test Runner will launch
+* Click on the Runs tab of your project within the Test Runner
+* Then Chrome browser will be launched to run this script
 
