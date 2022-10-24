@@ -1,11 +1,15 @@
 # UI testing by Cypress
-## Здесь располагается код для тестирования страницы:
+
+## General info
+### Here you can find code for testing this webpage:
 "https://lavka.yandex.ru/"
 ### Скрипт ищет в поиске категорию товара "овощи" и проверяет все ли картинки этой категории товаров загрузились.  
-### To run this code please install Cypress here
+## How to use
+### To run this code please install Cypress here:
 https://www.cypress.io/
-or use this command to install: $ npm install cypress
-### Предусловия к установке Cypress на Windows:
-1. Windows 7 или более новые версии
-2. установленный NodeJS https://nodejs.org/en/download/
+### or use this command to install: 
+$ npm install cypress
+### System requirements for Windows:
+* Windows 7 and above (64-bit only)
+* Node.js 12 or 14 and above
 
