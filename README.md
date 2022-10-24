@@ -6,5 +6,5 @@
 https://www.cypress.io/
 ### Предусловия к установке Cypress на Windows:
 1. Windows 7 или более новые версии
-2. установленный NodeJS 
+2. установленный NodeJS https://nodejs.org/en/download/
 
