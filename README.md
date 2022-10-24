@@ -9,10 +9,10 @@ To run this code please install Cypress here:
 https://www.cypress.io/
 or use this command to install: 
 $ npm install cypress
-### System requirements for Windows:
+#### System requirements for Windows:
 * Windows 7 and above (64-bit only)
 * Node.js 12 or 14 and above
-### Running a script
+#### Running a script
 * Run the ‘npx cypress open’ command under this folder directory
 * After a moment, the Cypress Test Runner will launch
 * Click on the Runs tab of your project within the Test Runner
